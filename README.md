@@ -1,37 +1,6 @@
+##### Hi, I'm Matisse:
 
-Skip to content
-Pulls
-Issues
-Marketplace
-Explore
-@IMPWONG
-kautukkundan /
-Awesome-Profile-README-templates
-
-156
-6.6k
-
-    2.6k
-
-Code
-Issues 7
-Pull requests 112
-Actions
-Projects
-Wiki
-Security
-
-More
-Awesome-Profile-README-templates/multimedia/AdamAlston.md
-Newer
-
-Older
-100644 60 lines (47 sloc) 3.96 KB
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
-
-##### Hi, I'm Adam:
-
-- 🎓Recent computer science graduate from UNC - Chapel Hill
+- 🎓
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
