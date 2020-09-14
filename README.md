@@ -1,4 +1,4 @@
-##### Hi, I'm Matisse:
+[![Header](https://github.com/IMPWONG/IMPWONG/raw/master/profile.gif)
 
 - 🎓
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
