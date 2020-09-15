@@ -10,7 +10,7 @@ Welcome to my profile! I'm a Project Manager, part-time self-taught coder and fu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-![Matisse Github Stats](https://github-readme-stats.vercel.app/api?username=IMPWONG&theme=nord_icons=true)
+
+![Matisse Github Stats](https://github-readme-stats.vercel.app/api?username=IMPWONG&repo=github-readme-stats)
 
