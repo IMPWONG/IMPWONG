@@ -5,7 +5,7 @@
 
 Welcome to my profile! I'm a Project Manager, part-time self-taught coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen/)!
 
-/github/last-commit/:user/:repo
+
 
 #### Languages & Tech
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
