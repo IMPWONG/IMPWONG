@@ -12,5 +12,5 @@ Welcome to my profile! I'm a Project Manager, part-time self-taught coder and fu
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=IMPWONG&theme=nord_icons=true)
+![Matisse Github Stats](https://github-readme-stats.vercel.app/api?username=IMPWONG&theme=nord_icons=true)
 
