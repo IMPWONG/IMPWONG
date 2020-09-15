@@ -4,6 +4,8 @@
 
 Welcome to my profile! I'm a Project Manager, part-time self-taught coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen/)!
 
+Dont
+
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -13,3 +15,4 @@ Welcome to my profile! I'm a Project Manager, part-time self-taught coder and fu
 
 
 
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
