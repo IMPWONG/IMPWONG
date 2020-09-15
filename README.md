@@ -12,4 +12,4 @@ Welcome to my profile! I'm a Project Manager, part-time self-taught coder and fu
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMPWONG&layout=compact)
