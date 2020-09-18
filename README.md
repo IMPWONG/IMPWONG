@@ -15,7 +15,7 @@ Welcome to my profile! I'm a Project Manager, part-time self-taught coder and fu
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8548ab3a-6bc0-4b3e-8d87-ffead3396b3e/deploy-status)](https://impwng-pwaweather-app.netlify.app/)
+
 
 
 
