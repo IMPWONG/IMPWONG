@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-@Matissse-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matisse.acheen.pro@gmail.com)](mailto:matisse.acheen.pro@gmail.com)
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-Welcome to my profile! I'm a Project Manager, part-time self-taught coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen4/)!
+Welcome to my profile! I'm a Project Manager, part-time (full-time soon) self-taught Blockchain Developer and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen4/)!
 
 
 
