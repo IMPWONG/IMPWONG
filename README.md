@@ -1,4 +1,7 @@
 # Hello there 👋
+
+![Hello](https://media.giphy.com/media/FBeSx3itXlUQw/giphy.gif)
+
 [![Linkedin Badge](https://img.shields.io/badge/-@Matisse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matisseacheen/)](https://www.linkedin.com/in/matisseacheen/)
 [![Gmail Badge](https://img.shields.io/badge/-@Matissse-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matisse.acheen.pro@gmail.com)](mailto:matisse.acheen.pro@gmail.com)
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
