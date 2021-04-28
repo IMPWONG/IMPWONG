@@ -7,7 +7,7 @@
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge]
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
@@ -23,9 +23,9 @@
 
 <br >
 
-Project Manager, self-taught Blockchain Developer 🚀 and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen4/) [![Mail Badge](https://img.shields.io/badge/-@imatisseach-e84393?
+Project Manager, self-taught Blockchain Developer 🚀 and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen4/) [![Linkedin Badge](https://img.shields.io/badge/-Matisse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matisseacheen4/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IMPWONG=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IMPWONG=anuraghazra&show_icons=true&theme=radical)(https://github.com/IMPWONG/github-readme-stats)
 
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
