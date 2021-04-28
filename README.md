@@ -3,13 +3,12 @@
 ![Hello](https://media.giphy.com/media/FBeSx3itXlUQw/giphy.gif)
 
 #### So much fun ..
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Solidity](https://img.shields.io/badge/SOLIDITY-ETH-lightgrey)
-![Ether.js](https://img.shields.io/badge/ETHERS-lightgrey)
-![HARDHAT.js](https://img.shields.io/badge/HARDHAT-lightgrey)
+
+![React.js](https://img.shields.io/badge/REACT.JS-lightgrey)
+![Solidity](https://img.shields.io/badge/SOLIDITY-lightgrey)
+![Ether.js](https://img.shields.io/badge/ETHERS.JS-lightgrey)
+![Hardhat](https://img.shields.io/badge/HARDHAT-lightgrey)
+
 
 Project Manager, self-taught Blockchain Developer 🚀 and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen4/)!
 
