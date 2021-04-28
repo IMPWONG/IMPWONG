@@ -23,9 +23,8 @@
 
 <br >
 
-Project Manager, self-taught Blockchain Developer 🚀 and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matisseacheen4/) [![Linkedin Badge](https://img.shields.io/badge/-Matisse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matisseacheen4/)
+Project Manager, self-taught Blockchain Developer 🚀 and full-time adventure seeker. Thanks for visiting and I'd love to [![Linkedin Badge](https://img.shields.io/badge/-CONNECT-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matisseacheen4/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IMPWONG=anuraghazra&show_icons=true&theme=radical)(https://github.com/IMPWONG/github-readme-stats)
 
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
